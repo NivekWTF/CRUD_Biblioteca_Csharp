@@ -1,0 +1,12 @@
+E:\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+E:\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+E:\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+E:\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+F:\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+F:\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+F:\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+F:\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+E:\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
